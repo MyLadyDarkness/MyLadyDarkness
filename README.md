@@ -10,6 +10,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MyLadyDarkness&theme=solarized)
 
+[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/MyLadyDarkness) 
+
+
 
 <!--
 [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username) 
