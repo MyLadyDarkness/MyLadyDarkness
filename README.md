@@ -19,6 +19,7 @@
 -->
 
 Здесь можно посмотреть набор простеньких UI автотестов https://github.com/MyLadyDarkness/qa_guru_22_final_tests_ui
+<br>
 Здесь немного тестов для API - https://github.com/MyLadyDarkness/qa_guru_22_final_tests_api
 
 <!--
