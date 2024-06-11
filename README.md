@@ -18,6 +18,8 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 -->
 
+Здесь можно посмотреть набор простеньких UI автотестов https://github.com/MyLadyDarkness/qa_guru_22_final_tests_ui
+Здесь немного тестов для API - https://github.com/MyLadyDarkness/qa_guru_22_final_tests_api
 
 <!--
 **MyLadyDarkness/MyLadyDarkness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
