@@ -2,6 +2,26 @@
 ### Меня зовут Олеся! 
 
 ###### Занимаюсь тестированием программного обеспечения более 10 лет
+##### Умею в технологии
+<br>
+<div align="center">
+    <img title="Python" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/python-original.svg">
+    <img title="Pytest" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/pytest-original-wordmark.svg">    
+    <img title="PyCharm" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/pycharm-original.svg">
+    <img title="Selenium" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/selenium.png">
+    <img title="Selene" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/selene.png">
+    <img title="Jenkins" width="40" height="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/jenkins-original.svg">
+    <img title="Selenoid" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/selenoid.png">
+    <img title="Allure" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/allure.png">
+    <img title="AllureTestOps" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/allure_testops.svg">
+    <img title="Github" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/github-original-wordmark.svg">
+    <img title="Telegram" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/telegram.png">
+</div>
+
+##### Примеры с их использованием:
+Набор простеньких UI автотестов https://github.com/MyLadyDarkness/qa_guru_22_final_tests_ui
+<br>
+Немного тестов для API - https://github.com/MyLadyDarkness/qa_guru_22_final_tests_api
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyLadyDarkness&layout=compact)](https://github.com/MyLadyDarkness/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MyLadyDarkness)](https://github.com/MyLadyDarkness/github-profile-trophy)
@@ -17,10 +37,6 @@
 [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username) 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 -->
-
-Здесь можно посмотреть набор простеньких UI автотестов https://github.com/MyLadyDarkness/qa_guru_22_final_tests_ui
-<br>
-Здесь немного тестов для API - https://github.com/MyLadyDarkness/qa_guru_22_final_tests_api
 
 <!--
 **MyLadyDarkness/MyLadyDarkness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
