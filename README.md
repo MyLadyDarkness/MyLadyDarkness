@@ -19,9 +19,9 @@
 </div>
 
 ##### Примеры с их использованием:
-Набор простеньких UI автотестов https://github.com/MyLadyDarkness/qa_guru_22_final_tests_ui
+<a href = "https://github.com/MyLadyDarkness/telega-project-tests-ui">Набор простеньких UI автотестов</a>
 <br>
-Немного тестов для API - https://github.com/MyLadyDarkness/qa_guru_22_final_tests_api
+<a href = "https://github.com/MyLadyDarkness/qa_guru_22_final_tests_api">Немного тестов для API</a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyLadyDarkness&layout=compact)](https://github.com/MyLadyDarkness/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MyLadyDarkness)](https://github.com/MyLadyDarkness/github-profile-trophy)
