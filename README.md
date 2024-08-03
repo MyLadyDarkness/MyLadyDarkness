@@ -23,6 +23,9 @@
 <br>
 <a href = "https://github.com/MyLadyDarkness/qa_guru_22_final_tests_api">Немного тестов для API</a> 
 
+Сертификат об окончании курса QA.GURU | Python | Автоматизация тестирования
+<img title="Certificate" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/certificates/Баркар Олеся.png">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyLadyDarkness&layout=compact)](https://github.com/MyLadyDarkness/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MyLadyDarkness)](https://github.com/MyLadyDarkness/github-profile-trophy)
 
