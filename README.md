@@ -26,9 +26,8 @@
 <a href = "https://github.com/MyLadyDarkness/resources/blob/main/certificates/Баркар Олеся.png">
 Сертификат об окончании курса QA.GURU | Python | Автоматизация тестирования
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyLadyDarkness&layout=compact)](https://github.com/MyLadyDarkness/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=MyLadyDarkness)](https://github.com/MyLadyDarkness/github-profile-trophy)
+<br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=MyLadyDarkness)
 
