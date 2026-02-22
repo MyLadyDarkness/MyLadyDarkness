@@ -1,33 +1,42 @@
-# Привет 👋
-### Меня зовут Олеся! 
+# Привет! Меня зовут Олеся! 👋
 
-###### Занимаюсь тестированием программного обеспечения более 10 лет
-##### Умею в технологии
-<br>
-<div align="center">
-    <img title="Python" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/python-original.svg">
-    <img title="Pytest" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/pytest-original-wordmark.svg">    
-    <img title="PyCharm" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/pycharm-original.svg">
-    <img title="Selenium" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/selenium.png">
-    <img title="Selene" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/selene.png">
-    <img title="Jenkins" width="40" height="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/jenkins-original.svg">
-    <img title="Selenoid" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/selenoid.png">
-    <img title="Allure" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/allure.png">
-    <img title="AllureTestOps" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/allure_testops.svg">
-    <img title="Github" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/github-original-wordmark.svg">
-    <img title="Telegram" width="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/telegram.png">
-</div>
+**QA Engineer, 10+ лет опыта в различных коммерческих проектах**, сейчас активно осваиваю автоматизацию на Python
+##### Стек автоматизации:
 
-##### Примеры с их использованием:
-<a href = "https://github.com/MyLadyDarkness/telega-project-tests-ui">Набор простеньких UI автотестов</a>
-<br>
-<a href = "https://github.com/MyLadyDarkness/qa_guru_22_final_tests_api">Немного тестов для API</a> 
+- **Язык:**
+    - Python <img title="Python" width="20" src="https://github.com/MyLadyDarkness/resources/blob/main/images/python-original.svg"><br> 
 
-<a href = "https://github.com/MyLadyDarkness/resources/blob/main/certificates/Баркар Олеся.png">
-Сертификат об окончании курса QA.GURU | Python | Автоматизация тестирования
-</a>
-<br>
-<br>
+- **Библиотеки:** 
+    - Pytest <img title="Pytest" width="20" src="https://github.com/MyLadyDarkness/resources/blob/main/images/pytest-original-wordmark.svg">
+    - Selenium <img title="Selenium" width="20" src="https://github.com/MyLadyDarkness/resources/blob/main/images/selenium.png">
+    - Selene <img title="Selene" width="20" src="https://github.com/MyLadyDarkness/resources/blob/main/images/selene.png">
+    - Allure <img title="Allure" width="20" src="https://github.com/MyLadyDarkness/resources/blob/main/images/allure.png">
+
+- **Инструменты:**
+    
+    - Selenoid <img title="Selenoid" width="20" src="https://github.com/MyLadyDarkness/resources/blob/main/images/selenoid.png">
+    - AllureTestOps <img title="AllureTestOps" width="20" src="https://github.com/MyLadyDarkness/resources/blob/main/images/allure_testops.svg">
+    - PyCharm <img title="PyCharm" width="20" src="https://github.com/MyLadyDarkness/resources/blob/main/images/pycharm-original.svg">
+    - Jenkins <img title="Jenkins" width="20" height="40" src="https://github.com/MyLadyDarkness/resources/blob/main/images/jenkins-original.svg">
+    - Github <img title="Github" width="20" src="https://github.com/MyLadyDarkness/resources/blob/main/images/github-original-wordmark.svg">
+    - Telegram <img title="Telegram" width="20" src="https://github.com/MyLadyDarkness/resources/blob/main/images/telegram.png">
+
+- **Паттерны:**
+   
+    - PageObject
+
+#### Мои проекты:
+
+- [demowebshop-project-tests-api](https://github.com/MyLadyDarkness/demowebshop-project-tests-api) — автоматизация API-тестов для учебного интернет-магазина (Python + Requests + Pytest + Allure + уведомления в Telegram)
+
+- [telega-project-tests-ui](https://github.com/MyLadyDarkness/telega-project-tests-ui) — UI-автотесты (Selene, PageObject)
+
+- [Python_automation_practice](https://github.com/MyLadyDarkness/Python_automation_practice) — тренировочные скрипты, отработка базовых конструкций и подходов
+
+#### Контакты:
+
+- Telegram: @MiledyDarkness
+- [Резюме на hh.ru](https://spb.hh.ru/resume/d32e3a24ff0f482b4a0039ed1f454248613376)
 
 ![](https://komarev.com/ghpvc/?username=MyLadyDarkness)
 
