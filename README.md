@@ -36,7 +36,7 @@
 #### Контакты:
 
 - Telegram: @MiledyDarkness
-- [Резюме на hh.ru](https://spb.hh.ru/resume/d32e3a24ff0f482b4a0039ed1f454248613376)
+- [Резюме на hh.ru](https://hh.ru/resume/c196918aff102d87b10039ed1f6f344a685330)
 
 ![](https://komarev.com/ghpvc/?username=MyLadyDarkness)
 
