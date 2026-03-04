@@ -14,9 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Update views
-        uses: gayanvoice/github-profile-views-counter-action@3.0.0 # Используем конкретную версию
+      - name: Release the beast
+        uses: antonkomarev/github-profile-views-counter-action@v1.0.9
         with:
-          repository: ${{ github.repository }}
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
