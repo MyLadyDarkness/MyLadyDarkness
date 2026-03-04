@@ -1,0 +1,12 @@
+name: Update Views
+on:
+  schedule:
+    - cron: '0 * * * *' # Обновлять каждый час
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gayanvoice/github-profile-views-counter-action@master
+        with:
+          token: ${{ secrets.GH_TOKEN }}
