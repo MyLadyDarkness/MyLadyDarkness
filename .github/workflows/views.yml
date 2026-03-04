@@ -2,7 +2,7 @@ name: Update Views
 
 on:
   schedule:
-    - cron: '0 * * * *' # Обновлять каждый час
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
