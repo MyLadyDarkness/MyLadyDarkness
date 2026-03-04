@@ -2,6 +2,7 @@ name: Update Views
 on:
   schedule:
     - cron: '0 * * * *' # Обновлять каждый час
+  workflow_dispatch:
 jobs:
   update:
     runs-on: ubuntu-latest
