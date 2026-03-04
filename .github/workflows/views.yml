@@ -1,9 +1,9 @@
 name: Update Views
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,8 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gayanvoice/github-profile-views-counter-action@master
+      
+      - name: Update views
+        uses: gayanvoice/github-profile-views-counter-action@master
         with:
-          repository: MyLadyDarkness/MyLadyDarkness
+          repository: ${{ github.repository }} # Он сам подставит твой ник/репо
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
