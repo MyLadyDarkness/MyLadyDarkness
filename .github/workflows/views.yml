@@ -15,19 +15,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Get Views and Save
-        run: |
-          # Создаем папку, если её нет
-          mkdir -p data
-          # Записываем текущую дату и время (как имитацию активности)
-          echo "Last updated: $(date)" > data/views.txt
-          # Считаем количество просмотров через API (упрощенно)
-          echo "Stats updated"
+      - name: GitHub Profile Views Counter
+        uses: gayanvoice/github-profile-views-counter-action@3.0.0
+        with:
+          repository: ${{ github.repository }}
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Commit and Push
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add data/views.txt
-          git commit -m "Update views log" || exit 0
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update profile views" || exit 0
           git push
