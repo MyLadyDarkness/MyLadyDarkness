@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Update views
-        uses: gayanvoice/github-profile-views-counter-action@master
+        uses: gayanvoice/github-profile-views-counter-action@3.0.0 # Используем конкретную версию
         with:
-          repository: ${{ github.repository }} # Он сам подставит твой ник/репо
+          repository: ${{ github.repository }}
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
